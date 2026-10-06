@@ -52,7 +52,7 @@ The system combines **Federated Learning, Edge Computing, Offline-First Healthca
 
 ---
 
-### 🏍️ KOVAI MOTOBIKES — Full-Stack Dealership Platform
+###  KOVAI MOTOBIKES — Full-Stack Dealership Platform
 
 A production-style website developed for a real motorcycle dealership and service center.
 
