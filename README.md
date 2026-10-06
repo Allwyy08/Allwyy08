@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Allwyn Noble
+#  Hi, I'm Allwyn Noble
 
 ### 🤖 AI/ML Enthusiast • Full-Stack Developer • Android Developer
 
