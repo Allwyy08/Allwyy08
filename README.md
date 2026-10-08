@@ -1,6 +1,6 @@
 #  Hi, I'm Allwyn Noble
 
-### 🤖 AI/ML Enthusiast • Full-Stack Developer • Android Developer
+###  AI/ML Enthusiast • Full-Stack Developer • Android Developer
 
 <div align="center">
 
@@ -14,39 +14,39 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm **Allwyn Noble**, a pre-final year **B.Tech Computer Science Engineering (Artificial Intelligence)** student who enjoys building practical software systems that combine **AI, full-stack development, mobile applications, and backend engineering**.
 
 I'm particularly interested in turning ideas into real, usable products — from privacy-preserving AI systems and edge computing to production-style websites with backend services and databases.
 
-- 🎓 B.Tech CSE — Artificial Intelligence
-- 🤖 Interested in AI, Machine Learning & Edge AI
-- 🌐 Full-Stack Web Developer
-- 📱 Android Developer
-- 🧠 Exploring Federated Learning & Deep Reinforcement Learning
-- 🚀 Building real-world, production-oriented projects
-- 💼 Open to **Internships & Freelance Projects**
+-  B.Tech CSE — Artificial Intelligence
+-  Interested in AI, Machine Learning & Edge AI
+-  Full-Stack Web Developer
+-  Android Developer
+-  Exploring Federated Learning & Deep Reinforcement Learning
+-  Building real-world, production-oriented projects
+-  Open to **Internships & Freelance Projects**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏥 AI-Driven Energy-Aware Federated Edge Learning
+###  AI-Driven Energy-Aware Federated Edge Learning
 
 A privacy-preserving healthcare screening framework designed for **low-connectivity environments**.
 
 The system combines **Federated Learning, Edge Computing, Offline-First Healthcare Screening, Real-Time Device Telemetry and an Energy-Aware DQN Scheduler**.
 
 **Highlights**
-- 🔐 Privacy-preserving Federated Learning
-- 📱 Native Android edge client
-- 📴 Offline-first healthcare screening
-- ⚡ Energy-aware DQN scheduling
-- 📡 Real-time device telemetry
-- 🔄 Automatic offline-to-online synchronization
-- 🧠 Supports FedAvg & FedAsync
-- 🖥️ FastAPI healthcare control center
+-  Privacy-preserving Federated Learning
+-  Native Android edge client
+-  Offline-first healthcare screening
+-  Energy-aware DQN scheduling
+-  Real-time device telemetry
+-  Automatic offline-to-online synchronization
+-  Supports FedAvg & FedAsync
+-  FastAPI healthcare control center
 
 **Tech Stack:** `Python` `FastAPI` `PyTorch` `Flower` `Kotlin` `Jetpack Compose` `Room` `WorkManager` `SQLite`
 
@@ -59,22 +59,22 @@ A production-style website developed for a real motorcycle dealership and servic
 The platform combines a premium customer-facing website with a backend-powered admin system for managing dealership operations.
 
 **Highlights**
-- 🏍️ Motorcycle catalogue & model filtering
-- 🔎 Search, categories & engine-capacity filters
-- 🧾 Service booking system
-- 🏁 Test ride requests
-- 💬 Customer enquiries
-- 🖥️ Admin dashboard
-- 🗄️ Supabase/PostgreSQL backend
-- 🔐 Supabase authentication
-- 📱 Responsive mobile-first experience
-- 🔄 Database-backed customer records
+-  Motorcycle catalogue & model filtering
+-  Search, categories & engine-capacity filters
+-  Service booking system
+-  Test ride requests
+-  Customer enquiries
+-  Admin dashboard
+-  Supabase/PostgreSQL backend
+-  Supabase authentication
+-  Responsive mobile-first experience
+-  Database-backed customer records
 
 **Tech Stack:** `Next.js` `TypeScript` `React` `Tailwind CSS` `Supabase` `PostgreSQL`
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -106,20 +106,20 @@ The platform combines a premium customer-facing website with a backend-powered a
 
 ---
 
-## 🧠 Areas of Interest
+##  Areas of Interest
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Federated Learning
-- ⚡ Edge AI & Edge Computing
-- 🎮 Deep Reinforcement Learning
-- 🌍 Full-Stack Development
-- 📱 Android Development
-- 🏗️ Backend Engineering & System Design
-- 🔐 Privacy-Preserving AI
+-  Artificial Intelligence & Machine Learning
+-  Federated Learning
+-  Edge AI & Edge Computing
+-  Deep Reinforcement Learning
+-  Full-Stack Development
+-  Android Development
+-  Backend Engineering & System Design
+-  Privacy-Preserving AI
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -130,7 +130,7 @@ The platform combines a premium customer-facing website with a backend-powered a
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Allwyy08&theme=transparent&hide_border=true" />
@@ -138,7 +138,7 @@ The platform combines a premium customer-facing website with a backend-powered a
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Allwyy08&theme=github-compact&hide_border=true" width="95%" />
@@ -146,32 +146,32 @@ The platform combines a premium customer-facing website with a backend-powered a
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
-- 🤖 Advanced Machine Learning
-- 🌐 Federated Learning
-- ⚡ Edge AI & Edge Computing
-- 🎮 Deep Reinforcement Learning
-- 🏗️ System Design & Backend Architecture
-- ☁️ Cloud Deployment
-- 🔐 Privacy-Preserving AI
-- 🚀 Production-Ready Full-Stack Development
+-  Advanced Machine Learning
+-  Federated Learning
+-  Edge AI & Edge Computing
+-  Deep Reinforcement Learning
+-  System Design & Backend Architecture
+-  Cloud Deployment
+-  Privacy-Preserving AI
+-  Production-Ready Full-Stack Development
 
 ---
 
-## 🎯 What I'm Looking For
+##  What I'm Looking For
 
 I'm currently open to:
 
-**💼 Software / AI / ML Internships**  
-**🚀 Freelance Web & Software Development Projects**  
-**🤝 AI, Full-Stack & Open-Source Collaborations**
+** Software / AI / ML Internships**  
+** Freelance Web & Software Development Projects**  
+** AI, Full-Stack & Open-Source Collaborations**
 
 If you have an interesting project or opportunity, feel free to reach out.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -185,7 +185,7 @@ If you have an interesting project or opportunity, feel free to reach out.
 
 <div align="center">
 
-### 💡 Build. Learn. Improve. Repeat.
+###  Build. Learn. Improve. Repeat.
 
 ⭐ Thanks for visiting my profile!
 
