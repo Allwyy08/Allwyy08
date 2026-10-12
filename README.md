@@ -16,7 +16,7 @@
 
 ##  About Me
 
-I'm **Allwyn Noble**, a pre-final year **B.Tech Computer Science Engineering (Artificial Intelligence)** student who enjoys building practical software systems that combine **AI, full-stack development, mobile applications, and backend engineering**.
+I'm **Allwyn Noble**, a Final year **B.Tech Computer Science Engineering (Artificial Intelligence)** student who enjoys building practical software systems that combine **AI, full-stack development, mobile applications, and backend engineering**.
 
 I'm particularly interested in turning ideas into real, usable products — from privacy-preserving AI systems and edge computing to production-style websites with backend services and databases.
 
